@@ -1,4 +1,4 @@
-import React, {useEffect,useState,useContext} from 'react';
+import React, {useContext} from 'react';
 import { Product } from '../components/Product'
 import { useProducts } from '../hooks/products'
 import { Loader } from '../components/Loader'
