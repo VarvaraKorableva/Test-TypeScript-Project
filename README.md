@@ -1,2 +1,2 @@
-# Test-TypeScript-Project
-## https://varvara-from-moscow.github.io/Test-TypeScript-Project/
+## Test-TypeScript-Project for practice
+https://varvarakorableva.github.io/Test-TypeScript-Project/
